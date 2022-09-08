@@ -7,6 +7,7 @@ import MyModal from "./components/UI/MyModal/MyModal";
 import MyButton from "./components/UI/button/MyButton";
 import {usePosts} from "./hooks/usePosts";
 
+
 function App() {
 
   const [posts, setPosts] = useState([])
