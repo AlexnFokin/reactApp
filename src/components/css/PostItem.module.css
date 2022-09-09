@@ -12,7 +12,13 @@
     font-size: 24px;
 }
 .list__item__btns {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
 
+.list__item__btns button {
+    margin-left: 10px;
 }
 .list__item__content {
     display: flex;
