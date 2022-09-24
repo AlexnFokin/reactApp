@@ -47,13 +47,14 @@
     width: 100vw;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     padding: 0 15px;
     background-color: darkgreen;
     margin-bottom: 50px;
 }
 
 .navbar__links {
-    margin-right: auto;
+
 }
 .navbar__links a {
     color: #fff;
